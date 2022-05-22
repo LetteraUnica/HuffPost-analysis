@@ -1,3 +1,4 @@
+import re
 from tqdm import tnrange
 from copy import deepcopy
 from nltk.collocations import BigramCollocationFinder, BigramAssocMeasures
@@ -44,3 +45,25 @@ def apply_collocations(documents, set_collocations):
             documents[i], set_collocations)
 
     return documents
+
+
+def show_topics(A, vocabulary, topn=5):
+    """
+    find the top N words for each of the latent dimensions (=rows) in a
+    """
+    topic_words = ([[vocabulary[i] for i in np.argsort(t)[:-topn-1:-1]]
+                    for t in A])  # for each row
+    return [', '.join(t) for t in topic_words]
+
+
+def get_topic_descriptors(lda_model, num_words=3):
+    descriptors = []
+    for topic in lda_model.print_topics(num_words=num_words):
+        topic_words = []
+        for word in topic[1].split("+"):
+            topic_words.append(
+                re.sub(r"0\.[0-9]+\*", '', word).replace('"', '').strip())
+
+        descriptors.append(", ".join(topic_words))
+
+    return descriptors
