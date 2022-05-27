@@ -6,7 +6,14 @@ import pandas as pd
 
 
 def documents_to_words(documents):
-    return [word for document in documents for word in document.split(" ")]
+    all_words = []
+    for i, document in enumerate(documents):
+        try:
+            words = document.split(" ")
+            all_words.extend(words)
+        except:
+            pass
+    return all_words
 
 
 def remove_short_words(documents, min_length=2):

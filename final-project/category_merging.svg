@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (1:1.2+202205231507+da316b6974)"
+   sodipodi:docname="category_merging.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.32777935"
+     inkscape:cx="1906.7705"
+     inkscape:cy="1465.9252"
+     inkscape:window-width="1835"
+     inkscape:window-height="1016"
+     inkscape:window-x="85"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       color="#8181bd"
+       opacity="0.1254902"
+       empcolor="#8585b9"
+       empopacity="0.25098039"
+       spacingx="1.0583333"
+       spacingy="1.0583333"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1818"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-7-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-7-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-7-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-7-64" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-7-0-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-7-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-7-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-7-0-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-7-6-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-7-6-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-7-64-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1818-7-0-6-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1816-7-6-2-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10256">
+      <rect
+         style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect182-3"
+         width="120"
+         height="20"
+         x="424.6333"
+         y="276.95944"
+         rx="5.5273767"
+         ry="5.5273767"
+         inkscape:export-filename="../../rect182-3.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="440.02377"
+         y="290.81192"
+         id="text801-6"><tspan
+           sodipodi:role="line"
+           id="tspan799-7"
+           style="stroke-width:0.264583"
+           x="440.02377"
+           y="290.81192">ARTS &amp; CULTURE</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="440.02377"
+           y="304.04105"
+           id="tspan803-5" /></text>
+      <rect
+         style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect182"
+         width="120"
+         height="20"
+         x="238.63481"
+         y="241.8708"
+         rx="5.5273767"
+         ry="5.5273767" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="285.38504"
+         y="255.72327"
+         id="text795"><tspan
+           sodipodi:role="line"
+           id="tspan793"
+           style="stroke-width:0.264583"
+           x="285.38504"
+           y="255.72327">ARTS</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="285.38504"
+           y="268.95239"
+           id="tspan797" /></text>
+      <rect
+         style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect182-35"
+         width="120"
+         height="20"
+         x="238.63481"
+         y="276.95944"
+         rx="5.5273767"
+         ry="5.5273767" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="254.02527"
+         y="290.81192"
+         id="text801"><tspan
+           sodipodi:role="line"
+           id="tspan799"
+           style="stroke-width:0.264583"
+           x="254.02527"
+           y="290.81192">ARTS &amp; CULTURE</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="254.02527"
+           y="304.04105"
+           id="tspan803" /></text>
+      <rect
+         style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect182-6"
+         width="120"
+         height="20"
+         x="238.63481"
+         y="312.0481"
+         rx="5.5273767"
+         ry="5.5273767" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="253.72556"
+         y="325.90057"
+         id="text807"><tspan
+           sodipodi:role="line"
+           id="tspan805"
+           style="stroke-width:0.264583"
+           x="253.72556"
+           y="325.90057">CULTURE &amp; ARTS</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.264583"
+           x="253.72556"
+           y="339.1297"
+           id="tspan809" /></text>
+      <path
+         style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="m 358.77499,251.88333 63.5,26.45833"
+         id="path1430"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818)"
+         d="m 358.77499,286.80832 h 62.44166"
+         id="path1430-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818)"
+         d="m 358.78215,320.83997 63.49284,-25.56498"
+         id="path1430-9"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g8990"
+         transform="translate(0,1.209465)">
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-3-9"
+           width="120"
+           height="20"
+           x="767.67346"
+           y="275.75"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="790.1203"
+           y="289.60248"
+           id="text801-6-9"><tspan
+             sodipodi:role="line"
+             id="tspan799-7-4"
+             style="stroke-width:0.264583"
+             x="790.1203"
+             y="289.60248">WORLD NEWS</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="790.1203"
+             y="302.8316"
+             id="tspan803-5-5" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-0"
+           width="120"
+           height="20"
+           x="581.67499"
+           y="240.66135"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="595.39374"
+           y="254.51381"
+           id="text795-3"><tspan
+             sodipodi:role="line"
+             id="tspan793-7"
+             style="stroke-width:0.264583"
+             x="595.39374"
+             y="254.51381">THE WORLDPOST</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="595.39374"
+             y="267.74292"
+             id="tspan797-8" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-35-6"
+           width="120"
+           height="20"
+           x="581.67499"
+           y="275.75"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="604.12183"
+           y="289.60248"
+           id="text801-0"><tspan
+             sodipodi:role="line"
+             id="tspan799-46"
+             style="stroke-width:0.264583"
+             x="604.12183"
+             y="289.60248">WORLD NEWS</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="604.12183"
+             y="302.8316"
+             id="tspan803-7" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-6-0"
+           width="120"
+           height="20"
+           x="581.67499"
+           y="310.83862"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="607.43945"
+           y="324.6911"
+           id="text807-9"><tspan
+             sodipodi:role="line"
+             id="tspan805-7"
+             style="stroke-width:0.264583"
+             x="607.43945"
+             y="324.6911">WORLDPOST</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="607.43945"
+             y="337.92023"
+             id="tspan809-5" /></text>
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-2)"
+           d="m 701.81517,250.67388 63.5,26.45833"
+           id="path1430-97"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-2)"
+           d="m 701.81517,285.59887 h 62.44166"
+           id="path1430-2-8"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-2)"
+           d="m 701.82233,319.63052 63.49284,-25.56498"
+           id="path1430-9-5"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <g
+       id="g10141"
+       transform="translate(0,-7.034849)">
+      <g
+         id="g8809"
+         transform="translate(0,1.1062469)">
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-7)"
+           d="m 358.77499,408.51665 62.44166,-12.7"
+           id="path1430-9-4"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-7-0)"
+           d="m 358.77499,373.0625 62.44166,13.22915"
+           id="path1430-9-4-4"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-3-2"
+           width="120"
+           height="20"
+           x="424.6333"
+           y="380.55264"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="456.26044"
+           y="394.40512"
+           id="text801-6-6"><tspan
+             sodipodi:role="line"
+             id="tspan799-7-5"
+             style="stroke-width:0.264583"
+             x="456.26044"
+             y="394.40512">WELLNESS</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="456.26044"
+             y="407.63425"
+             id="tspan803-5-8" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-35-5"
+           width="120"
+           height="20"
+           x="238.63481"
+           y="363.00833"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="270.26196"
+           y="376.86081"
+           id="text801-3"><tspan
+             sodipodi:role="line"
+             id="tspan799-4"
+             style="stroke-width:0.264583"
+             x="270.26196"
+             y="376.86081">WELLNESS</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="270.26196"
+             y="390.08994"
+             id="tspan803-9" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-6-20"
+           width="120"
+           height="20"
+           x="238.63481"
+           y="398.09695"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="255.51355"
+           y="411.94943"
+           id="text807-1"><tspan
+             sodipodi:role="line"
+             id="tspan805-9"
+             style="stroke-width:0.264583"
+             x="255.51355"
+             y="411.94943">HEALTHY LIVING</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="255.51355"
+             y="425.17856"
+             id="tspan809-6" /></text>
+      </g>
+      <g
+         id="g9078"
+         transform="translate(1.0583191,-0.0604096)">
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-7-3)"
+           d="m 700.75684,409.68331 62.44166,-12.7"
+           id="path1430-9-4-7"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-7-0-8)"
+           d="m 700.75684,374.22916 62.44166,13.22915"
+           id="path1430-9-4-4-93"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-3-2-7"
+           width="120"
+           height="20"
+           x="766.61517"
+           y="381.7193"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="786.30511"
+           y="395.57178"
+           id="text801-6-6-8"><tspan
+             sodipodi:role="line"
+             id="tspan799-7-5-74"
+             style="stroke-width:0.264583"
+             x="786.30511"
+             y="395.57178">FOOD &amp; DRINK</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="786.30511"
+             y="408.8009"
+             id="tspan803-5-8-1" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-35-5-8"
+           width="120"
+           height="20"
+           x="580.61664"
+           y="364.17499"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="600.30658"
+           y="378.02747"
+           id="text801-3-8"><tspan
+             sodipodi:role="line"
+             id="tspan799-4-5"
+             style="stroke-width:0.264583"
+             x="600.30658"
+             y="378.02747">FOOD &amp; DRINK</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="600.30658"
+             y="391.25659"
+             id="tspan803-9-8" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-6-20-4"
+           width="120"
+           height="20"
+           x="580.61664"
+           y="399.26361"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="624.59442"
+           y="413.11609"
+           id="text807-1-3"><tspan
+             sodipodi:role="line"
+             id="tspan805-9-7"
+             style="stroke-width:0.264583"
+             x="624.59442"
+             y="413.11609">TASTE</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="624.59442"
+             y="426.34521"
+             id="tspan809-6-1" /></text>
+      </g>
+    </g>
+    <g
+       id="g10035"
+       transform="translate(0,-14.069698)">
+      <g
+         id="g8897"
+         transform="translate(1.9765015)">
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-7-6)"
+           d="m 356.79848,496.77802 62.44166,-12.7"
+           id="path1430-9-4-8"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-7-0-6)"
+           d="m 356.79848,461.32387 62.44166,13.22915"
+           id="path1430-9-4-4-9"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-3-2-6"
+           width="120"
+           height="20"
+           x="422.6568"
+           y="468.81403"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="437.76047"
+           y="482.6665"
+           id="text801-6-6-0"><tspan
+             sodipodi:role="line"
+             id="tspan799-7-5-7"
+             style="stroke-width:0.264583"
+             x="437.76047"
+             y="482.6665">STYLE &amp; BEAUTY</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="437.76047"
+             y="495.89563"
+             id="tspan803-5-8-0" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-35-5-1"
+           width="120"
+           height="20"
+           x="236.65831"
+           y="451.26968"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="252.04877"
+           y="465.12216"
+           id="text801-3-3"><tspan
+             sodipodi:role="line"
+             id="tspan799-4-7"
+             style="stroke-width:0.264583"
+             x="252.04877"
+             y="465.12216">STYLE &amp; BEAUTY</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="252.04877"
+             y="478.35129"
+             id="tspan803-9-7" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-6-20-2"
+           width="120"
+           height="20"
+           x="236.65831"
+           y="486.35831"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="280.53275"
+           y="500.21078"
+           id="text807-1-6"><tspan
+             sodipodi:role="line"
+             id="tspan805-9-4"
+             style="stroke-width:0.264583"
+             x="280.53275"
+             y="500.21078">STYLE</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="280.53275"
+             y="513.43988"
+             id="tspan809-6-5" /></text>
+      </g>
+      <g
+         id="g9166"
+         transform="translate(-6.313446,1.5180664)">
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-7-6-7)"
+           d="m 708.12861,495.25995 62.44166,-12.7"
+           id="path1430-9-4-8-8"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#4d4d4d;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1818-7-0-6-4)"
+           d="m 708.12861,459.80579 62.44166,13.22915"
+           id="path1430-9-4-4-9-5"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-3-2-6-1"
+           width="120"
+           height="20"
+           x="773.98688"
+           y="467.29596"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="776.69342"
+           y="481.14844"
+           id="text801-6-6-0-6"><tspan
+             sodipodi:role="line"
+             id="tspan799-7-5-7-6"
+             style="stroke-width:0.264583"
+             x="776.69342"
+             y="481.14844">BUSINESS &amp; FINANCE</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="776.69342"
+             y="494.37756"
+             id="tspan803-5-8-0-2" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-35-5-1-6"
+           width="120"
+           height="20"
+           x="587.98846"
+           y="449.75162"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="621.32092"
+           y="463.6041"
+           id="text801-3-3-4"><tspan
+             sodipodi:role="line"
+             id="tspan799-4-7-8"
+             style="stroke-width:0.264583"
+             x="621.32092"
+             y="463.6041">BUSINESS</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="621.32092"
+             y="476.83322"
+             id="tspan803-9-7-0" /></text>
+        <rect
+           style="fill:#ffffff;stroke:#4d4d4d;stroke-width:1.2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect182-6-20-2-8"
+           width="120"
+           height="20"
+           x="587.98846"
+           y="484.84024"
+           rx="5.5273767"
+           ry="5.5273767" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="628.19385"
+           y="498.69272"
+           id="text807-1-6-1"><tspan
+             sodipodi:role="line"
+             id="tspan805-9-4-0"
+             style="stroke-width:0.264583"
+             x="628.19385"
+             y="498.69272">MONEY</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.264583"
+             x="628.19385"
+             y="511.92184"
+             id="tspan809-6-5-2" /></text>
+      </g>
+    </g>
+  </g>
+</svg>
