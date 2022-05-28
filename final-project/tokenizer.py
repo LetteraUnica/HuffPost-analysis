@@ -13,7 +13,7 @@ class MyTokenizer:
         res = []
         for word in document.split(" "):
             word = word.strip()
-            if word in word2int:
+            if word in self.word2int:
                 res.append(self.word2int[word])
             else:
                 res.append(self.word2int[self.UNK])

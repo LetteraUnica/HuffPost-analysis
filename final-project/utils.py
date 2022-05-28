@@ -5,6 +5,7 @@ from tqdm import tnrange
 from copy import deepcopy
 from nltk.collocations import BigramCollocationFinder, BigramAssocMeasures
 import pandas as pd
+import numpy as np
 
 
 def documents_to_words(documents):
