@@ -78,6 +78,11 @@ def get_topic_descriptors(lda_model, num_words=3):
     return descriptors
 
 
+def get_f1_scores(y_test, y_pred):
+    print(f"F1 macro: {f1_score(y_test, y_pred, average='macro'):.2f}")
+    print(f"F1 weighted: {f1_score(y_test, y_pred, average='weighted'):.2f}")
+
+
 def get_model_report(model, X_test, y_test, confusion_matrix=False):
     start = time.time()
     y_pred = model.predict(X_test)
@@ -85,8 +90,7 @@ def get_model_report(model, X_test, y_test, confusion_matrix=False):
     print(
         f"Model took {end-start:.2f} seconds to predict {len(y_pred)} documents")
     print(f"Time per document: {(end-start)/len(y_pred)*1e3:.3f} ms")
-    print(f"F1 macro: {f1_score(y_test, y_pred, average='macro'):.2f}")
-    print(f"F1 weighted: {f1_score(y_test, y_pred, average='weighted'):.2f}")
+    get_f1_scores(y_test, y_pred)
 
     if confusion_matrix:
         plot_confusion_matrix(model, X_test, y_test, normalize="true",
