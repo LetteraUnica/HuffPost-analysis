@@ -38,6 +38,11 @@ class MyTokenizer:
         return len(self.word2int)
 
 
+def get_next_multiple_of_eight(number):
+    return ((number - 1) // 8 + 1) * 8
+
+
 def pad_to_max_length(tokenized_documents, padding_token):
     max_length = max([len(document) for document in tokenized_documents])
+    max_length = get_next_multiple_of_eight(max_length)
     return [document + [padding_token]*(max_length-len(document)) for document in tokenized_documents]
