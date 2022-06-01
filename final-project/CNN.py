@@ -48,6 +48,4 @@ class TextClassifier(nn.Module):
         x = torch.permute(x, (0, 2, 1))
         x = self.net(x)
         return self.classifier(x.mean(dim=2))
-
-
-        
+  

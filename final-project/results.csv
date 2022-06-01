@@ -1,0 +1,6 @@
+,F1_weighted,F1_macro,train_time [s],eval_time [us]
+Naive Bayes,0.36,0.61,8,34
+Logistic Regression,0.4,0.64,23,35
+CNN,0.38,0.58,600,90
+LSTM,0.37,0.58,840,130
+Transformer,0.45,0.68,1200,1600
