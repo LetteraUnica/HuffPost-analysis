@@ -1,0 +1,9 @@
+- send an email to debora.nozza@unibocconi.it as soon as possible with your willingness to take the exam. This is just for organization purposes, if you send me the email and then you decide to not take the exam you can write me later during the week.
+- register for the exam session on https://esse3.units.it/.
+- send me an e-mail with a report, data, and the code you developed (you can also send a link to a Google Drive folder). Email subject: NLP 2022 Exam UniTS. Deadline: Tuesday June 28th 23:59. 
+- The report should be in PDF or Word format and should not contain code or in-depth explanation of the theory covered in the course. The report should contain an introduction to the problem and to the data, a description (not in detail) of the methods applied, an analysis of the results and conclusions. The maximum number of pages is 15 (exceptions are made for reports with many images).
+- The day of the exam you will have 15 minutes for presenting your project. You should present a PowerPoint presentation or similar.
+- The evaluation of the project will consider: Adopted Methodology, Experimental Analysis, Experimental Evaluation and Presentation.
+- The oral exam will take place right after the presentation and consists of 3 questions that could range over all the topics covered in the course.
+
+
