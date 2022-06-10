@@ -103,6 +103,11 @@ As for the huperparameters we set `alpha=eta=1/n_topics` which are the default v
 
 We see a spike at 5 topics in both the cv and u_mass scores, so we decided to train an LDA model on the whole corpus using `num_topics=5`.
 
+The topics of discussion that the model managed to extract from the data are the following:
+
+![](images/topic_descriptors.png)
+
+Topic 1 seems to talk about weddings, topic 2 about trump and obama, topic 3 about hotels and travels, topic 4 is very broad maybe we can associate it to lifestyle or family, finally topic 5 talks about research and health.
 
 
 
