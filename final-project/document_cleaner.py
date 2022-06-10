@@ -4,6 +4,7 @@ import string
 from copy import deepcopy
 from typing import Sequence
 from nltk.corpus import stopwords as stopword_list
+from tqdm.notebook import tqdm
 
 
 class DocumentCleaner:
@@ -24,15 +25,16 @@ class DocumentCleaner:
 
     def remove_punctuation(self, documents):
         punctuation = string.punctuation.replace("$", "")
+        punctuation = string.punctuation.replace("%", "")
         return [re.sub(f'[{punctuation}]', '', document) for document in documents]
 
     def remove_hashtags(self, documents):
-        return [re.sub('#\w+', '$hashtag', document) for document in documents]
+        return [re.sub('#[a-z0-9_]+', '$hashtag', document) for document in documents]
 
     def stem(self, documents):
         stemmer = SnowballStemmer("english")
         stemmed_documents = []
-        for document in documents:
+        for _, document in tqdm(enumerate(documents), total=len(documents), desc="Stemming documents: "):
             document = document.split(" ")
             document = [stemmer.stem(word) for word in document]
             document = " ".join(document)
@@ -41,7 +43,7 @@ class DocumentCleaner:
 
     def remove_stopwords(self, documents):
         filtered_documents = []
-        for document in documents:
+        for _, document in tqdm(enumerate(documents), total=len(documents), desc="Removing stopwords: "):
             document = document.split(" ")
             document = [
                 word for word in document if word not in self.stopwords]
@@ -55,10 +57,10 @@ class DocumentCleaner:
             documents = self.remove_case(documents)
         if self.numbers:
             documents = self.remove_numbers(documents)
-        if self.punctuation:
-            documents = self.remove_punctuation(documents)
         if self.hashtags:
             documents = self.remove_hashtags(documents)
+        if self.punctuation:
+            documents = self.remove_punctuation(documents)
         if self.stemming:
             documents = self.stem(documents)
         if self.stopwords:
