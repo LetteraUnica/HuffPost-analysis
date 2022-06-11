@@ -28,11 +28,11 @@
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
      inkscape:zoom="0.6555587"
-     inkscape:cx="2140.1592"
+     inkscape:cx="2024.9903"
      inkscape:cy="1323.2987"
-     inkscape:window-width="1835"
+     inkscape:window-width="1848"
      inkscape:window-height="1016"
-     inkscape:window-x="85"
+     inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"><inkscape:grid
@@ -896,7 +896,7 @@
        transform="matrix(0.35277778,0,0,0.35277778,544.4901,243.67054)"
        clip-path="url(#clipPath7368)" /><g
        id="g13372"
-       inkscape:export-filename="g13372.png"
+       inkscape:export-filename="optuna_C_tuning.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><path
          d="m 530.32342,351.82868 h 81.31061 v -53.2851 h -81.31061 z"
