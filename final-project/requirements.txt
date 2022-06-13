@@ -5,5 +5,3 @@
 - The day of the exam you will have 15 minutes for presenting your project. You should present a PowerPoint presentation or similar.
 - The evaluation of the project will consider: Adopted Methodology, Experimental Analysis, Experimental Evaluation and Presentation.
 - The oral exam will take place right after the presentation and consists of 3 questions that could range over all the topics covered in the course.
-
-
