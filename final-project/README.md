@@ -7,6 +7,7 @@
 
 `news_analysis.ipynb` Analysis of the dataset: data cleaning, exploration, topic modelling and text classification with naive bayes & logistic regression  
 `CNN_LSTM_Transformer.ipynb` training of CNN LSTM and transformer models for text classification  
+
 `*.py` files: modules containing the implementation in python of classes or functions used in the notebooks  
 
 `requirements.txt` Requirements for the exam  
