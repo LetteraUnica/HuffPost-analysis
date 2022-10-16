@@ -4,7 +4,7 @@ import string
 from copy import deepcopy
 from typing import Sequence
 from nltk.corpus import stopwords as stopword_list
-from tqdm.notebook import tqdm
+from tqdm.auto import tqdm
 
 
 class DocumentCleaner:
