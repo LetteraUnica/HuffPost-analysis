@@ -1,6 +1,6 @@
 # HuffPost article analysis
 
-We analyzed 200k HuffPost articles from Jan 2012 to May 2018 [**here is what we found**](https://docs.google.com/presentation/d/1P-vAfgQsC63P3sMW9y8pGnOvvKWK-ntkp_nhodvwwG0/edit?usp=sharing)
+We applied Natural Language Processing (NLP) techniques to analyze 200k HuffPost articles from Jan 2012 to May 2018 [**here is what we found**](https://docs.google.com/presentation/d/1P-vAfgQsC63P3sMW9y8pGnOvvKWK-ntkp_nhodvwwG0/edit?usp=sharing)
 
 ![image](final-project/images/wordcloud.png)
 
